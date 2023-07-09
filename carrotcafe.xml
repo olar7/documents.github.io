@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item>
+    <name>Carrot cake</name>
+    <price>$15.00</price>
+    <description>Delicious afternoon treat with complementary coffee</description>
+    <image>cake_carrot.gif</image>
+    <sound>cake_sound.mp3</sound>
+  </item>
+  <item>
+    <name>Chocolate cake</name>
+    <price>$15.00</price>
+    <description>Delicious afternoon treat with complementary coffee</description>
+    <image>cake_chocolate.gif</image>
+    <sound>cake_sound.mp3</sound>
+  </item>
+  <item>
+    <name>Lemon cake</name>
+    <price>$15.00</price>
+    <description>Delicious afternoon treat with complementary coffee</description>
+    <image>cake_lemon.gif</image>
+    <sound>cake_sound.mp3</sound>
+  </item>
+  <item>
+    <name>Orange and poppyseed cake</name>
+    <price>$15.00</price>
+    <description>Delicious afternoon treat with complementary coffee</description>
+    <image>cake_orange_poppyseed.gif</image>
+    <sound>cake_sound.mp3</sound>
+  </item>
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <products>
+    <product>
+      <name>Sourdough White</name>
+      <price>$7.00</price>
+      <description>Our standard sourdough</description>
+      <image>bread_white.gif</image>
+      <sound>bread_sound.mp3</sound>
+    </product>
+    <product>
+      <name>Sourdough Rye</name>
+      <price>$8.00</price>
+      <description>Sourdough created with 50% rye flour</description>
+      <image>bread_rye.gif</image>
+      <sound>bread_sound.mp3</sound>
+    </product>
+    <product>
+      <name>Sourdough Spelt</name>
+      <price>$9.00</price>
+      <description>Sourdough created with 100% spelt flour</description>
+      <image>bread_spelt.gif</image>
+      <sound>bread_sound.mp3</sound>
+    </product>
+    <product>
+      <name>Sourdough Seeded</name>
+      <price>$9.50</price>
+      <description>Sourdough including a mixture of yummy seeds</description>
+      <image>bread_seeded.gif</image>
+      <sound>bread_sound.mp3</sound>
+    </product>
+  </products>
